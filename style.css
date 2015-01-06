@@ -1,0 +1,54 @@
+
+header {
+	background-image: url(http://www.ourinfinitereality.com/wp-content/uploads/2014/10/inspirational-desktop-wallpapers-22.jpg);
+	min-height: 400px;
+	background-size: cover;	
+	max-width: 100%;}
+
+.article {
+
+}
+
+
+.left {
+	display: inline-block;
+	position: absolute;
+	width: 200px;
+	height: 400px;	
+	margin-top: -42px;
+	text-align: center;}
+
+.left ol {
+	list-style: none;
+	padding-left: 0;
+	text-align: left;
+}
+
+.left li {
+	font-size: 1.5em;
+	margin-bottom: .5em;
+}
+
+.left .logo {
+	width:100px;
+	height:100px;
+	border-radius: 50%;
+	display: inline-block;
+	background-image: url(http://images.wikia.com/wikiality/images/5/58/SmokeyBearHead.gif);
+
+}
+
+.right {
+	border: 10px solid black;
+	text-align: center;
+	margin-left: 200px;
+	background-color: red;
+	min-height: 400px;
+}
+	.right h1 {font-size: 50px;
+
+}
+	.right p {padding-left: 20px;
+	text-align: left;
+	font-size: 30px;	
+	} 
